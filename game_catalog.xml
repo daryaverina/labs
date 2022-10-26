@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalog SYSTEM "definition.dtd">
+<?xml-stylesheet type="text/xsl" href="game_catalog.xsl"?>
+<catalog>
+   <game>
+     <title>Mafia</title>
+     <genre>Action-adventure</genre>
+     <country>USA</country>
+     <company>Illusion Softworks</company>
+     <price>10.90</price>
+     <year>2002</year>
+   </game>
+   <game>
+     <title>The Witcher</title>
+     <genre>Fantasy</genre>
+     <country>Poland</country>
+     <company>CD Projekt</company>
+     <price>2.50</price>
+     <year>2007</year>
+   </game>
+   <game>
+     <title>The Elder Scrolls IV: Oblivion</title>
+     <genre>Action role-playing</genre>
+     <country>USA</country>
+     <company>2K Games</company>
+     <price>3.70</price>
+     <year>2006</year>
+   </game>
+   <game>
+     <title>Counter-Strike 1.6</title>
+     <genre>Shooter</genre>
+     <country>USA</country>
+     <company>Valve</company>
+     <year>2000</year>
+   </game>
+   <game>
+     <title>Shrek 2</title>
+     <genre>Action-adventure</genre>
+     <country>USA</country>
+     <company>Activision</company>
+     <price>5.00</price>
+     <year>2004</year>
+   </game>
+</catalog>

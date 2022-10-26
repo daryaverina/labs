@@ -1,0 +1,10 @@
+<!DOCTYPE catalog [
+<!ELEMENT catalog (game)>
+<!ELEMENT game (title,genre,country,company,price,year)>
+<!ELEMENT title (#CDATA)>
+<!ELEMENT genre (#CDATA)>
+<!ELEMENT country (#CDATA)>
+<!ELEMENT company (#CDATA)>
+<!ELEMENT price (#CDATA)>
+<!ELEMENT year (#CDATA)> 
+]>
